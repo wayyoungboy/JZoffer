@@ -16,7 +16,7 @@
 若小x>目标数字时已经决定了之后的数组肯定不会再存
 在目标数字，可以直接跳出
 */
-package so
+package _go
 
 import (
 
